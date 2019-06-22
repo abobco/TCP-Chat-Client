@@ -1,0 +1,9 @@
+﻿  App.cpp
+  ChatClient.cpp
+  main.cpp
+  Generating code
+  110 of 257 functions (42.8%) were compiled, the rest were copied from previous compilation.
+    48 functions were new in current compilation
+    43 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  2 player tcp game framework.vcxproj -> C:\SDL\2 player tcp game framework\Release\2 player tcp game framework.exe
